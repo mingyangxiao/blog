@@ -8,4 +8,4 @@ title: HTTPS和SSL/TLS协议
 “SSL/TLS”是干嘛用滴？
 
 
-![](/images/20140405_124450.jpg)
+![](https://raw.githubusercontent.com/little-sheep/little-sheep.github.io/master/images/20140405_124450.jpg)
