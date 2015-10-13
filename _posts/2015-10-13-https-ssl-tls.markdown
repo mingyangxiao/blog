@@ -6,3 +6,6 @@ title: HTTPS和SSL/TLS协议
 1. “HTTP”是干嘛用滴？
 
 “SSL/TLS”是干嘛用滴？
+
+
+![](/images/20140405_124450.jpg)
