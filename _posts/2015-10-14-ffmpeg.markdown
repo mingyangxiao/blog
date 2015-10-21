@@ -1,0 +1,8 @@
+---
+layout: post
+title: ffmpeg截图
+---
+
+```
+ffmpeg -i test1.flv -vframes 1 -f image2  -y test1.jpg
+```
