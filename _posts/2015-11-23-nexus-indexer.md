@@ -1,6 +1,6 @@
 ---
 layout: post
-tilte : Nexus手动更新索引
+title : Nexus手动更新索引
 ---
 
 访问[http://repo.maven.apache.org/maven2/.index/](http://repo.maven.apache.org/maven2/.index/)下载索引文件。
@@ -19,6 +19,7 @@ tilte : Nexus手动更新索引
 *注：indexer-cli-5.1.1.jar是专门用来解析和发布索引的工具，关于它的详细信息[请见这里](https://maven.apache.org/maven-indexer/indexer-cli/index.html)。*
 
 将上面三个文件放置到同一目录下，运行如下命令
+
 ```
 java -jar indexer-cli-5.1.1.jar -u nexus-maven-repository-index.gz -d indexer
 ```
