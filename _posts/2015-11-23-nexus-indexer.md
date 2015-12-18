@@ -8,6 +8,7 @@ title : Nexus手动更新索引
 我们需要下载如下两个文件
 
 [nexus-maven-repository-index.properties](http://repo.maven.apache.org/maven2/.index/nexus-maven-repository-index.properties)
+
 [nexus-maven-repository-index.gz](http://repo.maven.apache.org/maven2/.index/nexus-maven-repository-index.gz)
 
 *注：下载完成之后最好是通过MD5或者SHA1校验一下文件是否一致。*
