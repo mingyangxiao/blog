@@ -54,7 +54,7 @@ baseurl: ""
 #
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 paginate: 5
 
