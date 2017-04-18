@@ -10,6 +10,7 @@ location /download/ {
     root   /some/path;
 }
 ```
+
 ```java
 String fileName = request.getParameter("fileName");
 if (认证通过) {
