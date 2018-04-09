@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MySQL使用frm及ibd文件恢复表结构和数据
+excerpt: MySQL使用frm及ibd文件恢复表结构和数据
 ---
 
 > 本方法仅适用于启用了 innodb_file_per_table = 1 (独立表空间)的数据库
