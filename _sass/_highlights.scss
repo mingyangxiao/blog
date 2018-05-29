@@ -11,6 +11,12 @@
   overflow: auto;
 }
 
+pre.highlight{
+    border: none;
+    margin: 0;
+    box-shadow: none;
+}
+
 code {
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
 }
