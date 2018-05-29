@@ -8,7 +8,7 @@ excerpt: EPEL源Nginx升级到官方最新版时遇到的问题及解决办法
 
 在一次升级nginx 版本中遇到的问题。
 
-原本nginx直接使用 ```yum install nginx``` 安装的。后期想直接升级到官方最新版。
+原本nginx直接使用 `yum install nginx` 安装的。后期想直接升级到官方最新版。
 
 第一步:配置repo
 
