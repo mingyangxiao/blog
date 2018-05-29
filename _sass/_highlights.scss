@@ -11,6 +11,8 @@
   overflow: auto;
 }
 
+
+
 pre.highlight{
     border: none;
     margin: 0;
@@ -19,6 +21,11 @@ pre.highlight{
 
 code {
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
+}
+
+code.highlighter-rouge{
+    background-color: #efefef;
+    border: 1px solid #ddd;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
