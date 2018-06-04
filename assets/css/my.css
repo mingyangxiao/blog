@@ -12,11 +12,12 @@
     border-radius: 50% !important;
 }
 
-.home-banner .header-img{
+.home-banner .header-img {
     height: 100% !important;
 }
 
-.post-no-cover{
+.post-no-cover,
+tags-banner {
     background: url("/assets/img/kb.jpg") center !important;
     background-size: cover !important;
 }
