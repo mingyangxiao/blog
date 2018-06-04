@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Windows利用命令行解决端口占用
+cover: /assets/img/MLseries-1.png
 tags: CMD
 ---
 
