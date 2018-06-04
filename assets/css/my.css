@@ -17,7 +17,7 @@
 }
 
 .post-no-cover,
-tags-banner {
+.tags-banner {
     background: url("/assets/img/kb.jpg") center !important;
     background-size: cover !important;
 }
