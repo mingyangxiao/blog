@@ -2,6 +2,7 @@
 layout: post
 title: MySQL使用frm及ibd文件恢复表结构和数据
 excerpt: MySQL使用frm及ibd文件恢复表结构和数据
+cover: /assets/img/server-room.jpg
 tags: MySQL 运维
 ---
 
