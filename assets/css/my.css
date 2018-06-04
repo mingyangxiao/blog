@@ -21,3 +21,7 @@
     background: url("/assets/img/kb.jpg") center !important;
     background-size: cover !important;
 }
+
+.tags-banner {
+    height: 360px;
+}
