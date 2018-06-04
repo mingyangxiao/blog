@@ -13,7 +13,7 @@
 }
 
 .home-banner .header-img {
-    height: 100% !important;
+    min-height: 100% !important;
 }
 
 .post-no-cover,
