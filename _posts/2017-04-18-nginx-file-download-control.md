@@ -6,7 +6,7 @@ cover: /assets/img/option.jpg
 tags: 开发 Nginx
 ---
 
-```
+```nginx
 location /download/ {
     internal;#将该路径标记为仅内部访问
     root   /some/path;
