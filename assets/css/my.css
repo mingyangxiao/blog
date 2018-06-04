@@ -28,19 +28,18 @@
 
  /*这里是闪烁光标*/
 .cursor.blink {
-    width: 2px;
+    width: 3px;
     height: 10px;
+    display: inline-block;
     animation: blink 1s infinite steps(1, start);
 }
 
 /*这里设置动画blink*/
 @keyframes blink {
     0%, 100% {
-        background-color: #000;
-        color: #aaa;
+        background-color:  rgba(255,255,255,1);       
     }
     50% {
-        background-color: #bbb; /* not #aaa because it's seem there is Google Chrome bug */
-        color: #000;
+        background-color: rgba(0,0,0,0);
     }
 }
