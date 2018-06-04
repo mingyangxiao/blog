@@ -2,6 +2,7 @@
 layout: post
 title: CentOS删除旧内核
 excerpt: CentOS删除旧内核
+cover: /assets/img/linux.png
 tags: 运维
 ---
 

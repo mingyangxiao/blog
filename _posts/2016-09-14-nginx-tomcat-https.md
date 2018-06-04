@@ -2,6 +2,7 @@
 layout: post
 title: Nginx https + Tomcat http 非80/443端口配置方式
 excerpt: Nginx https + Tomcat http 非80/443端口配置方式
+cover: /assets/img/tomcat.jpg
 tags: 运维 Tomcat Nginx
 ---
 

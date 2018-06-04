@@ -2,6 +2,7 @@
 layout: post
 title: 文件下载Content-Disposition设置
 excerpt: 文件下载Content-Disposition设置
+cover: /assets/img/linux-1.jpg
 tags: 开发
 ---
 
