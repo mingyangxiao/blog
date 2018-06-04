@@ -18,4 +18,5 @@
 
 .post-no-cover{
     background: url("/assets/img/kb.jpg") !important;
+    background-size: cover !important;
 }
