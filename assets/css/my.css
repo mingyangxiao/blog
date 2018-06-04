@@ -1,0 +1,17 @@
+/*修复语法高亮滚动条问题*/
+.markdown-body .highlight {
+    overflow: auto;
+}
+
+/*自定义logo*/
+.g-header .g-logo {
+    background: url("/assets/img/profile.jpg") !important;
+    background-size: cover !important;
+    width: 26px !important;
+    height: 26px !important;
+    border-radius: 50% !important;
+}
+
+.home-banner .header-img{
+    height: 100% !important;
+}
