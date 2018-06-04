@@ -29,9 +29,9 @@
  /*这里是闪烁光标*/
 .cursor.blink {
     width: 3px;
-    height: 10px;
+    height: 24px;
     display: inline-block;
-    animation: blink 1s infinite steps(1, start);
+    animation: blink 2s infinite steps(1, start);
 }
 
 /*这里设置动画blink*/
