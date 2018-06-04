@@ -29,7 +29,7 @@
  /*这里是闪烁光标*/
 .cursor.blink {
     width: 3px;
-    height: 24px;
+    height: 20px;
     display: inline-block;
     animation: blink 2s infinite steps(1, start);
 }
