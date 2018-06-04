@@ -3,7 +3,7 @@ layout: post
 title: CentOS删除旧内核
 excerpt: CentOS删除旧内核
 cover: /assets/img/linux.png
-tags: 运维
+tags: 运维 CentOS Linux
 ---
 
 查看已经安装的内核

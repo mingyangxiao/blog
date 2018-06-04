@@ -2,7 +2,7 @@
 layout: post
 title: EPEL源Nginx升级到官方最新版时遇到的问题及解决办法
 cover: /assets/img/nginx.jpg
-tags: 运维
+tags: CentOS Nginx Linux 运维
 ---
 
 
