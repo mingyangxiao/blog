@@ -1,6 +1,7 @@
 ---
 layout: post
 title : Nexus手动更新索引
+tags: 运维 Nexus
 ---
 
 访问[http://repo.maven.apache.org/maven2/.index/](http://repo.maven.apache.org/maven2/.index/)下载索引文件。
@@ -21,7 +22,7 @@ title : Nexus手动更新索引
 
 将上面三个文件放置到同一目录下，运行如下命令
 
-```
+```shell
 java -jar indexer-cli-5.1.1.jar -u nexus-maven-repository-index.gz -d indexer
 ```
 

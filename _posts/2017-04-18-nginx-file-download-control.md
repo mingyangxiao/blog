@@ -2,6 +2,7 @@
 layout: post
 title: Nginx利用X-Accel-Redirect控制文件下载权限
 excerpt: Nginx利用X-Accel-Redirect控制文件下载权限
+tags: 开发 Nginx
 ---
 
 ```
