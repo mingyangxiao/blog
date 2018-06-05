@@ -25,21 +25,3 @@
 .tags-banner {
     height: 360px;
 }
-
- /*这里是闪烁光标*/
-.cursor.blink {
-    width: 3px;
-    height: 20px;
-    display: inline-block;
-    animation: blink 2s infinite steps(1, start);
-}
-
-/*这里设置动画blink*/
-@keyframes blink {
-    0%, 100% {
-        background-color:  rgba(255,255,255,1);       
-    }
-    50% {
-        background-color: rgba(0,0,0,0);
-    }
-}
