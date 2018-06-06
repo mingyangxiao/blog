@@ -2,7 +2,7 @@
 layout: post
 titile: Linux 编译安装 Git
 tags: Linux Git
-cover: /assets/img/git-log.png
+cover: /assets/img/git-logo.png
 ---
 
 从 [https://mirrors.edge.kernel.org/pub/software/scm/git/](https://mirrors.edge.kernel.org/pub/software/scm/git/) 下载git源码
