@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: Linux 编译安装 Git
+title: Linux 编译安装 Git
 tags: Linux Git
 cover: /assets/img/git-logo.png
 ---
