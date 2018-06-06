@@ -5,7 +5,7 @@ tags: Linux Git
 cover: /assets/img/git-log.png
 ---
 
-从 https://mirrors.edge.kernel.org/pub/software/scm/git/ 下载git源码
+从 [https://mirrors.edge.kernel.org/pub/software/scm/git/](https://mirrors.edge.kernel.org/pub/software/scm/git/) 下载git源码
 
 ```shell
 wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.17.1.tar.gz
