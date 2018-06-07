@@ -20,7 +20,7 @@ footer:
 author: '小绵羊'
 nickname: '小绵羊'
 bio: '野生程序员一只'
-avatar: '/assets/img/profile.jpg'
+avatar: 'https://avatars3.githubusercontent.com/u/14816094?s=460&v=4'
 
 # Search
 search: true
