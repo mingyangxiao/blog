@@ -5,7 +5,7 @@
 
 /*自定义logo*/
 .g-header .g-logo {
-    background: url("/assets/img/profile.jpg") center !important;
+    background: url("https://avatars3.githubusercontent.com/u/14816094?s=460&v=4") center !important;
     background-size: cover !important;
     width: 26px !important;
     height: 26px !important;
