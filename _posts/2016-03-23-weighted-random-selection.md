@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 权重随机选择算法
-excerpt: 权重随机选择算法
 tags: 算法 Java 开发
 ---
 
