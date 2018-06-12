@@ -2,9 +2,12 @@
 layout: post
 title: Nginx利用X-Accel-Redirect控制文件下载权限
 excerpt: Nginx利用X-Accel-Redirect控制文件下载权限
-cover: /assets/img/kb-big.jpg
+cover: /assets/img/java-namespace.jpg
 tags: 开发 Nginx
+
 ---
+
+在nginx配置文件中添加
 
 ```nginx
 location /download/ {
@@ -13,7 +16,11 @@ location /download/ {
 }
 ```
 
+后台处理
+
 ```java
+// download.action
+
 String fileName = request.getParameter("fileName");
 if (认证通过) {
     response.setHeader("Content-Type", "application/octet-stream");
@@ -23,4 +30,10 @@ if (认证通过) {
 } else {
     response.sendError(403);
 }
+```
+
+前端使用
+
+```shell
+dowload.action?fileName=test.txt
 ```
