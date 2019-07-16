@@ -41,7 +41,7 @@ ln -s /usr/bin/db2x_docbook2texi /usr/bin/docbook2x-texi
 cd git-2.17.1
 
 make prefix=/usr/local all doc info
-make prefix=/usr install install-doc install-html install-info
+make prefix=/usr/local install install-doc install-html install-info
 ```
 
 查看git版本
