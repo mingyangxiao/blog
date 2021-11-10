@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linux vm.swappiness参数设置与内存交换
+excerpt: 内核参数vm.swappiness控制换出运行时内存的相对权重，参数值可设置范围在0到100之间。参数值大小对如何使用交换空间有很大联系。值越大表示越积极使用交换空间，值越小表示越积极使用物理内存。
 cover: /assets/img/linux.png
 tags: Linux
 ---
