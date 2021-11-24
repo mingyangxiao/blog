@@ -2,7 +2,7 @@
 layout: post
 title: Yum 下载安装包及对应依赖包
 excerpt: Yum 下载安装包及对应依赖包
-cover: /assets/img/yum.jpg
+cover: /assets/img/yum.png
 tags: Linux Yum
 ---
 
