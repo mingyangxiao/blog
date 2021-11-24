@@ -31,7 +31,7 @@ nightMode: false
 # Comments 评论功能
 comments:
   disqus: false
-  disqus_url: 'https://youdomain/embed.js'
+  disqus_url: ''
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
