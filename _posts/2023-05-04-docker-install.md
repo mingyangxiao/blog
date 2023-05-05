@@ -8,13 +8,13 @@ tags: Linux Docker
 
 #### CentOS 7 Docker安装步骤
 
+# 1.安装yum工具
 ```bash
-#安装yum工具
 sudo yum install -y yum-utils
 ```
 
+# 2.卸载旧docker
 ```bash
-#卸载旧docker
 sudo yum remove docker \
                   docker-client \
                   docker-client-latest \
@@ -25,18 +25,18 @@ sudo yum remove docker \
                   docker-engine
 ```
 
+# 3.添加docker官方源
 ```bash
-#添加docker官方源
 sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 ```
 
+# 4.安装docker engine 及 docker compose
 ```bash
-#安装docker engine 及 docker compose
 sudo yum install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
+# 5.启动服务&开机自启动
 ```bash
-#启动服务
 sudo systemctl enable docker && systemctl start docker
 ```
 
