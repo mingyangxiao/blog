@@ -2,7 +2,7 @@
 layout: post
 title: Centos7升级OpenSSL&编译Nginx支持TLS v1.3
 excerpt: Docker 安装
-cover: /assets/img/docker.png
+cover: /assets/img/https.jpg
 tags: Linux OpenSSL Nginx
 ---
 
