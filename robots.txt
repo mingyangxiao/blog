@@ -1,7 +1,7 @@
-User-agent: Baiduspider
-Disallow: 
 User-agent: Googlebot
 Disallow: 
 User-agent: Bingbot
 Disallow: 
-Crawl-delay: 10
+User-agent: *
+Disallow: /
+Crawl-delay: 60
