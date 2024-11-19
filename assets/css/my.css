@@ -31,9 +31,7 @@
 }
 
 .sakana-box {
-    position: fixed !important;
-    width: 200px;
-    height: 200px;
+    position: fixed !important;   
     right: 0 !important;
     bottom: 0 !important;
     transform-origin: 100% 100% !important; /* 从右下开始变换 */
