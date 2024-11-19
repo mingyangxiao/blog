@@ -31,8 +31,10 @@
 }
 
 .sakana-box {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    transform-origin: 100% 100%; /* 从右下开始变换 */
+    position: fixed !important;
+    width: 200px;
+    height: 200px;
+    right: 0 !important;
+    bottom: 0 !important;
+    transform-origin: 100% 100% !important; /* 从右下开始变换 */
 }
